@@ -1,7 +1,7 @@
 #Ejercitación
-1) Extraer la lógica de cada una de las rutas a un mismo controlador
-2) Extraer la barra de navegación de cada una de las vistas a un archivo separado e incluirla en cada una de las vistas que haga falta
-3) Crear una vista maestra que contenta la estructura principal del HTML
+- 1) Extraer la lógica de cada una de las rutas a un mismo controlador
+- 2) Extraer la barra de navegación de cada una de las vistas a un archivo separado e incluirla en cada una de las vistas que haga falta
+- 3) Crear una vista maestra que contenta la estructura principal del HTML
 
 ---------------------------------------------------------------------
 #Para tener en cuenta:
