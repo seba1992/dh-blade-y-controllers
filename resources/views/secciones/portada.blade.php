@@ -12,7 +12,7 @@
 	      background-color:white;
 		  font-family: "Source Sans Pro", sans-serif;
 		}
-		 
+
 		.nav ul {
 		  list-style: none;
 		  background-color: #444;
@@ -26,24 +26,24 @@
 		  height: 40px;
 		  border-bottom: 1px solid #888;
 		}
-		 
+
 		.nav a {
 		  text-decoration: none;
 		  color: #fff;
 		  display: block;
 		  transition: .2s color;
 		}
-		 
+
 		.nav a:hover {
 			color:#337ab7;
 		}
-		 
+
 		.nav a.active {
 		  background-color: #fff;
 		  color: #444;
 		  cursor: default;
 		}
-		 
+
 		@media screen and (min-width: 600px) {
 		  .nav li {
 		    min-width: 120px;
@@ -52,7 +52,7 @@
 		    line-height: 50px;
 		    font-size: 1.2em;
 		  }
-		 
+
 		  /* Option 1 - Display Inline */
 		  .nav li {
 		    display: inline-block;
@@ -79,7 +79,7 @@
 	</div>
 
 	<div class="contenido">
-		<b>CREÁ TU FUTURO DIGITAL</b>
+		<h2>CREÁ TU FUTURO DIGITAL</h2>
 
 		<p>
 			Digital House, el coding school donde se forman las nuevas generaciones<br/>
