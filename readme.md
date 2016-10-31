@@ -6,6 +6,7 @@
 ---------------------------------------------------------------------
 #Para tener en cuenta:
 - Para crear un controlador utilizamos php artisan make:controller NombreController
+- Para asociar una ruta a un metodo de un controller usamos Route::get('/ruta', 'NombreController@metodo')
 - Para incluir una vista dentro de otra utilizamos @include('directorio.nombre_vista')
 - Para extender una vista de otra utilizamos @extends
 - Para mostrar el contenido de una sección en una vista maestra utilizamos @yield('nombre_seccion')
