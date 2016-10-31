@@ -13,6 +13,16 @@
 
 Route::get('/', function () {
     return view('secciones.portada');
+});
 
-  //  return view('welcome');
+Route::get('/campus', function () {
+    return view('secciones.campus');
+});
+
+Route::get('/training', function () {
+    return view('secciones.training');
+});
+
+Route::get('/nosotros', function () {
+    return view('secciones.nosotros');
 });
